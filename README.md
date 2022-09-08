@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raf.
 - 👀 I’m interested in Symfony and a big supporter of the API-first principle.
-- 🌱 I’m currently learning Enterprise DevOps
+- 🌱 I’m currently learning Enterprise DevOps and Identity and Access Management.
 - 💞️ I’m looking to collaborate on anything Symfony related.
 - 👀 I prefer curly brace `{` on a new line 
 - 📫 How to reach me: Tweet me @ng_raf
